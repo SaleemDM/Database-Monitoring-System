@@ -1,0 +1,3 @@
+dbms_monitor_env/
+db_monitor_log.csv
+__pycache__/
